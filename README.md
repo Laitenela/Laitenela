@@ -10,7 +10,7 @@ comment: I'm open to collaborating on interesting projects
 
 ## 💻 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,electron,svg,sass,tailwind,bootstrap,materialui,figma,webpack,vite,docker,jest,git,nginx,babel,nextjs,nodejs,php,laravel,postgres,mysql,mongodb,redis,cs,unity,postman,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,electron,svg,sass,tailwind,bootstrap,materialui,figma,webpack,vite,docker,jest,git,nginx,babel,nextjs,nodejs,express,php,laravel,postgres,mysql,mongodb,redis,cs,unity,postman,grafana)](https://skillicons.dev)
 
 
 <!--
